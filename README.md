@@ -1,75 +1,81 @@
-# Project-005 : Find the Number Game (JS-02)
+<!-- Please update value in the {}  -->
 
-## Description
-Project aims to create find the number game (between 0 to 100).
+<h1 align="center">{Your project name}</h1>
 
-## Problem Statement
 
-- Your company has recently started on a project that aims to create a find the number game. So you and your colleagues have started to work on the project.
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+     | 
+    <a href="https://{your-url-to-the-solution}">
+      Project
+    </a>
+ 
+  </h3>
+</div>
 
-## Project Skeleton 
+<!-- TABLE OF CONTENTS -->
 
-```
-001-find-number(folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
-|----solution
-        |----index.html  
-        |----style.css   
-        |----index.js
-```
+## Table of Contents
 
-## Expected Outcome
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-![Project 001 Snapshot](Project_001_.png)
+<!-- OVERVIEW -->
 
-## Objective
+## Overview
 
-Build a Find the Number Game (Between 0 to 100) that is functionally similar to this: [Find the Number Game]( https://aaron-clarusway.github.io/findnumber/)
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-### At the end of the project, following topics are to be covered;
+Introduce your projects by taking a screenshot or a gif. 
 
-- HTML 
+### Built With
 
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- HTML
 - CSS
-
-- JS
-
-
-### At the end of the project, students will be able to;
-
-- improve coding skills within HTML & CSS & JS
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create Parallax Website
-
->>Part-1 HTML Structure
-
-	- Creat structure of the HTML5
-	- Give name of your project (title)
-	- Create the main structur of the HTML
-
->>Part-2 CSS Structure
-
-	- Set a background and define font-color="white"
-	- Set container background color and margin
-	- Define others color-size-padding etc...
-
->Part-3 JS Structure
-
-	- Create code for find the number between 0 to 100
-	
-- Step 4: Push your application into your own public repo on Github
-
-- Step 5: Deploy your application on Github template to showcase your app within your team.
+- [React](https://reactjs.org/)
 
 
-## Happy coding 💪
+## Features
 
+This application/site was created as a submission to a [Clarusway](https://clarusway.com) Project/Challenges/etc. 
+
+## How To Use
+
+<!-- This is an example, please update according to your application -->
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/your-user-name/your-project-name
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+## Acknowledgements
+
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+
+- [Node.js](https://nodejs.org/)
+- [Marked](https://github.com/chjj/marked)
+
+## Contact
+
+- Website [your-website.com](https://{your-web-site-link})
+- GitHub [@your-username](https://{github.com/your-usermame})
+
+- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
+- Twitter [@your-twitter](https://{twitter.com/your-username})

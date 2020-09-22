@@ -1,4 +1,3 @@
-// stopConfetti();
 let guess;
 let count = 0;
 let correctNumber = Math.floor((Math.random() * 20) + 1);
@@ -46,10 +45,6 @@ function displayResult(){
 
             document.getElementById("guessNumber").innerHTML='';
             document.getElementById("result").innerHTML='';
-
-            // confetti.start();
-
-
         }
     }
 
