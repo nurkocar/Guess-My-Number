@@ -40,7 +40,6 @@ Introduce your projects by taking a screenshot or a gif.
 
 - HTML
 - CSS
-- [React](https://reactjs.org/)
 
 
 ## Features
@@ -51,7 +50,7 @@ This application/site was created as a submission to a [Clarusway](https://claru
 
 <!-- This is an example, please update according to your application -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com). From your command line:
 
 ```bash
 # Clone this repository
@@ -68,13 +67,10 @@ $ npm start
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Node.js](https://nodejs.org/)
 - [Marked](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@nurkocar](https://{github.com/nurkocar})
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin [@nur-kocar](https://{www.linkedin.com/in/nur-kocar/})
