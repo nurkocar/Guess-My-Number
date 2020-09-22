@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://nurkocar.github.io/Find-The-Number/">
+    <a href="https://nurkocar.github.io/Guess-My-Number/">
       My Project Link
     </a>
  
